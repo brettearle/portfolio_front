@@ -1,5 +1,5 @@
 [package]
-name = "counters"
+name = "portfolio"
 version = "0.1.0"
 edition = "2021"
 
@@ -9,6 +9,8 @@ log = "0.4"
 console_log = "0.2"
 console_error_panic_hook = "0.1.7"
 leptos = "0.2.1"
+leptos_meta = "0.2.1"
+
 
 [dev-dependencies]
 wasm-bindgen-test = "0.3.0"
