@@ -1,6 +1,13 @@
-# Leptos Front Template
+# Portfolio
 
-This is built off basic counter example found in leptos main repo at https://github.com/leptos-rs/leptos
+Front end of my portfolio site.
+
+Aim is to write entire portfolio in Rust as a learning experience
+
+Tech Used
+- Rust
+- Leptos framework
+
 
 ## Client Side Rendering
 
