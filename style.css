@@ -1,7 +1,51 @@
 body {
-  color: slategray;
+  margin: 0;
+  padding: 0;
+  color: whitesmoke;
+  background-color: #4C4E52;
+  text-align: center;
 }
 
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+section{
+  max-width: 75%;
+}
+
+h1 {
+  color: wheat; 
+}
+
+h2 {
+  color: wheat;
+}
+
+nav {
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: slategrey;
+  padding: 10px;
+  text-transform: uppercase;
+}
+
+a {
+  text-decoration: none;
+  color: whitesmoke;
+  padding-right: 1rem;
+}
+
+a:hover{
+  color: gray;
+}
+
+a:visited {
+  color: sandybrown;
+}
 
 
 
