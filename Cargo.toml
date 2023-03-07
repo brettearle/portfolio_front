@@ -10,6 +10,7 @@ console_log = "0.2"
 console_error_panic_hook = "0.1.7"
 leptos = "0.2.1"
 leptos_meta = "0.2.1"
+leptos_router = {version="0.2.1", features = ["csr"]}
 
 
 [dev-dependencies]
